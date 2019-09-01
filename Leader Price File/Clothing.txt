@@ -1,0 +1,4 @@
+12-911  Netto  19 7 2020  chemise  18  25.8  45  vêtement  GREEN
+12-913  Netto  19 7 2020  chemise  11  25.8  45  vêtement  BLUE
+12-914  Netto  19 7 2020  chemise  13  25.8  45  vêtement  GREY
+12-912  Netto  30 7 2019  pantoufle  11  10.9  18.1  chaussures  GREY

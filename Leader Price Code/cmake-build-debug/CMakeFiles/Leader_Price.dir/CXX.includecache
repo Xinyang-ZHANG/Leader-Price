@@ -1,0 +1,950 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QFormLayout
+-
+QSpinBox
+-
+QDialogButtonBox
+-
+QRadioButton
+-
+QTextBrowser
+-
+QGroupBox
+-
+QCheckBox
+-
+QToolBar
+-
+Account.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.cpp
+iostream
+-
+vector
+-
+sstream
+-
+QTextBrowser
+-
+QObject
+-
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+Account.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+iostream
+-
+vector
+-
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.cpp
+iostream
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+iostream
+-
+vector
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.cpp
+iostream
+-
+sstream
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+iostream
+-
+vector
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.cpp
+iostream
+-
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+iostream
+-
+vector
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/HouseWare.cpp
+iostream
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+iostream
+-
+vector
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.cpp
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QFormLayout
+-
+QSpinBox
+-
+QDialogButtonBox
+-
+QRadioButton
+-
+QGroupBox
+-
+QCheckBox
+-
+QTextBrowser
+-
+QStatusBar
+-
+QToolBar
+-
+QTimer
+-
+iostream
+-
+sstream
+-
+Interface.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.h
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+MyButton.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.h
+LabelTimer.h
+/Users/mac/Desktop/ClionProjects/Leader Price/LabelTimer.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.h
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QFormLayout
+-
+QSpinBox
+-
+QDialogButtonBox
+-
+QRadioButton
+-
+QGroupBox
+-
+QCheckBox
+-
+QToolBar
+-
+iostream
+-
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/LabelTimer.cpp
+iostream
+-
+ctime
+-
+QTimer
+-
+QString
+-
+QStatusBar
+-
+LabelTimer.h
+/Users/mac/Desktop/ClionProjects/Leader Price/LabelTimer.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/LabelTimer.h
+QStatusBar
+-
+QString
+-
+QTimer
+-
+iostream
+-
+ctime
+-
+
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.cpp
+iostream
+-
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+iostream
+-
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+ctime
+-
+QTextBrowser
+-
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+Account.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+Interface.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+ctime
+-
+Account.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.cpp
+iostream
+-
+sstream
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+iostream
+-
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.cpp
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QToolBar
+-
+QFormLayout
+-
+QSpinBox
+-
+QDialogButtonBox
+-
+iostream
+-
+MyButton.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.h
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.h
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QToolBar
+-
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+Interface.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.cpp
+iostream
+-
+iomanip
+-
+ostream
+-
+fstream
+-
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+iostream
+-
+iomanip
+-
+ostream
+-
+fstream
+-
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+iostream
+-
+vector
+-
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/Leader_Price_autogen/EWIEGA46WW/moc_LabelTimer.cpp
+../../../LabelTimer.h
+/Users/mac/Desktop/ClionProjects/Leader Price/LabelTimer.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/Leader_Price_autogen/EWIEGA46WW/moc_MyButton.cpp
+../../../MyButton.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/Leader_Price_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_LabelTimer.cpp
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/Leader_Price_autogen/EWIEGA46WW/moc_LabelTimer.cpp
+EWIEGA46WW/moc_MyButton.cpp
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/Leader_Price_autogen/EWIEGA46WW/moc_MyButton.cpp
+
+/Users/mac/Desktop/ClionProjects/Leader Price/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+QApplication
+-
+QMainWindow
+-
+QString
+-
+QLineEdit
+-
+QTextEdit
+-
+QInputDialog
+-
+QLabel
+-
+QPushButton
+-
+QMenuBar
+-
+QMessageBox
+-
+QFormLayout
+-
+QSpinBox
+-
+QDialogButtonBox
+-
+QRadioButton
+-
+QCheckBox
+-
+QToolBar
+-
+Merchandise.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Merchandise.h
+Houseware.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Houseware.h
+Clothing.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Clothing.h
+Food.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Food.h
+Drink.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Drink.h
+Purchase_DP.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Purchase_DP.h
+MyException.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyException.h
+Cashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Cashier.h
+ListCashier.h
+/Users/mac/Desktop/ClionProjects/Leader Price/ListCashier.h
+Account.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Account.h
+Manager.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Manager.h
+MyButton.h
+/Users/mac/Desktop/ClionProjects/Leader Price/MyButton.h
+Interface.h
+/Users/mac/Desktop/ClionProjects/Leader Price/Interface.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/QObject
+qobject.h
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qobject.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/QString
+qstring.h
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qstring.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/QTimer
+qtimer.h
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qtimer.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qobject.h
+QtCore/qobjectdefs.h
+-
+QtCore/qstring.h
+-
+QtCore/qbytearray.h
+-
+QtCore/qlist.h
+-
+QtCore/qcoreevent.h
+-
+QtCore/qscopedpointer.h
+-
+QtCore/qmetatype.h
+-
+QtCore/qobject_impl.h
+-
+chrono
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qstring.h
+QtCore/qchar.h
+-
+QtCore/qbytearray.h
+-
+QtCore/qrefcount.h
+-
+QtCore/qnamespace.h
+-
+QtCore/qstringliteral.h
+-
+QtCore/qstringalgorithms.h
+-
+QtCore/qstringview.h
+-
+string
+-
+iterator
+-
+stdarg.h
+-
+QtCore/qstringbuilder.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtCore.framework/Headers/qtimer.h
+QtCore/qglobal.h
+-
+QtCore/qbasictimer.h
+-
+QtCore/qobject.h
+-
+chrono
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QApplication
+qapplication.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qapplication.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QCheckBox
+qcheckbox.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qcheckbox.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QDialogButtonBox
+qdialogbuttonbox.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qdialogbuttonbox.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QFormLayout
+qformlayout.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qformlayout.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QGroupBox
+qgroupbox.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qgroupbox.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QInputDialog
+qinputdialog.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qinputdialog.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QLabel
+qlabel.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qlabel.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QLineEdit
+qlineedit.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qlineedit.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QMainWindow
+qmainwindow.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmainwindow.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QMenuBar
+qmenubar.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmenubar.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QMessageBox
+qmessagebox.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmessagebox.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QPushButton
+qpushbutton.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qpushbutton.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QRadioButton
+qradiobutton.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qradiobutton.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QSpinBox
+qspinbox.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qspinbox.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QStatusBar
+qstatusbar.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qstatusbar.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QTextBrowser
+qtextbrowser.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtextbrowser.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QTextEdit
+qtextedit.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtextedit.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/QToolBar
+qtoolbar.h
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtoolbar.h
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qapplication.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qcoreapplication.h
+-
+QtGui/qwindowdefs.h
+-
+QtCore/qpoint.h
+-
+QtCore/qsize.h
+-
+QtGui/qcursor.h
+-
+QtWidgets/qdesktopwidget.h
+-
+QtGui/qguiapplication.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qcheckbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qdialogbuttonbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qformlayout.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/QLayout
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qgroupbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qinputdialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtCore/qstring.h
+-
+QtWidgets/qlineedit.h
+-
+QtWidgets/qdialog.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qlineedit.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
+-
+QtGui/qtextcursor.h
+-
+QtCore/qstring.h
+-
+QtCore/qmargins.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmainwindow.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+QtWidgets/qtabwidget.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmenubar.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qmenu.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qmessagebox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qradiobutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qspinbox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractspinbox.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qstatusbar.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtextbrowser.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qtextedit.h
+-
+QtCore/qurl.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtextedit.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractscrollarea.h
+-
+QtGui/qtextdocument.h
+-
+QtGui/qtextoption.h
+-
+QtGui/qtextcursor.h
+-
+QtGui/qtextformat.h
+-
+
+/usr/local/Cellar/qt/5.12.3/lib/QtWidgets.framework/Headers/qtoolbar.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qaction.h
+-
+QtWidgets/qwidget.h
+-
+

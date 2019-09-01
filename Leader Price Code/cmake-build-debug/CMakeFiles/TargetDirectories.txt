@@ -1,0 +1,4 @@
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/CMakeFiles/Leader_Price.dir
+/Users/mac/Desktop/ClionProjects/Leader Price/cmake-build-debug/CMakeFiles/Leader_Price_autogen.dir
